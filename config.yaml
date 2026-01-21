@@ -1,2 +1,9 @@
 url: "https://www.bbc.co.uk"
-output_path: "data/headings.json"
+scroll_amount: 400
+wait_time: 10
+
+output:
+  path: "data/headings.json"
+
+logging:
+  level: "INFO"
