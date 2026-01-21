@@ -1,3 +1,11 @@
+## Scraping Project
+
+
+
+## Dev Settings
+
+### Venv
+
 Activate the venv
 
 1. Create the vritual environment
@@ -5,7 +13,6 @@ Activate the venv
 ```powershell
 python -m venv venv
 ```
-
 
 2. Activate the venv
 
