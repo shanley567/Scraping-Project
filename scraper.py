@@ -1,15 +1,55 @@
+import random
+import time
+
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
 
-# Launch Chrome with WebDriver Manager
-driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
 
-# Load the BBC homepage
+def generate_user_agent():
+    """Create a realistic Chrome user agent with a random version."""
+    chrome_version = random.randint(110, 125)  # adjust range as needed
+    ua = (
+        f"Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+        f"AppleWebKit/537.36 (KHTML, like Gecko) "
+        f"Chrome/{chrome_version}.0.0.0 Safari/537.36"
+    )
+    return ua
+
+
+# Generate a new UA for this run
+user_agent = generate_user_agent()
+print(f"Using User-Agent: {user_agent}")
+
+# Configure Chrome
+options = Options()
+options.add_argument(f"user-agent={user_agent}")
+options.add_experimental_option("excludeSwitches", ["enable-automation"])
+options.add_experimental_option("useAutomationExtension", False)
+
+# Launch browser
+driver = webdriver.Chrome(
+    service=Service(ChromeDriverManager().install()),
+    options=options
+)
+
+# Load page with a natural delay
 driver.get("https://www.bbc.co.uk")
+time.sleep(random.uniform(1.0, 2.0))
 
-# Find all heading tags (h1, h2, h3, etc.)
+# Scroll slightly to mimic human behaviour
+driver.execute_script("window.scrollTo(0, 400);")
+time.sleep(random.uniform(0.5, 1.5))
+
+# Wait for headings to appear
+wait = WebDriverWait(driver, 10)
+wait.until(EC.presence_of_element_located((By.TAG_NAME, "h1")))
+
+# Extract headings
 heading_tags = ["h1", "h2", "h3", "h4", "h5", "h6"]
 headings = []
 
@@ -20,7 +60,7 @@ for tag in heading_tags:
         if text:
             headings.append(text)
 
-# Print results
+# Output results
 print("\nBBC Homepage Headings:\n")
 for h in headings:
     print("-", h)
