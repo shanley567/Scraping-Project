@@ -11,10 +11,8 @@ def run(url: str, output_path: str):
 
     hierarchy = build_heading_hierarchy(headings)
 
-    print("\nHeading Hierarchy:\n")
-    print_hierarchy(hierarchy)
-
     save_to_json(hierarchy, output_path)
+    print(f"\nFile saved to:\n {output_path}\n")
 
 
 if __name__ == "__main__":
