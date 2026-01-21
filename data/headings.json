@@ -1,0 +1,434 @@
+[
+  {
+    "level": 1,
+    "text": "BBC Homepage",
+    "children": [
+      {
+        "level": 2,
+        "text": "Cookies on the BBC website",
+        "children": []
+      },
+      {
+        "level": 2,
+        "text": "Trump at Davos",
+        "children": []
+      },
+      {
+        "level": 2,
+        "text": "Sport headlines",
+        "children": []
+      },
+      {
+        "level": 2,
+        "text": "Around the UK",
+        "children": []
+      },
+      {
+        "level": 2,
+        "text": "Entertainment and TV",
+        "children": []
+      },
+      {
+        "level": 2,
+        "text": "Winterwatch 2026",
+        "children": []
+      },
+      {
+        "level": 2,
+        "text": "Food and recipes",
+        "children": []
+      },
+      {
+        "level": 2,
+        "text": "Money",
+        "children": []
+      },
+      {
+        "level": 2,
+        "text": "Health and wellbeing",
+        "children": []
+      },
+      {
+        "level": 2,
+        "text": "Uplifting stories",
+        "children": []
+      },
+      {
+        "level": 2,
+        "text": "Insight and analysis",
+        "children": []
+      },
+      {
+        "level": 2,
+        "text": "The video playlist",
+        "children": []
+      },
+      {
+        "level": 2,
+        "text": "Discover more to watch and listen to",
+        "children": []
+      },
+      {
+        "level": 2,
+        "text": "New and trending on the BBC",
+        "children": []
+      },
+      {
+        "level": 2,
+        "text": "Play today's Sudoku",
+        "children": []
+      },
+      {
+        "level": 2,
+        "text": "BBC around the UK",
+        "children": []
+      },
+      {
+        "level": 2,
+        "text": "Get support",
+        "children": []
+      },
+      {
+        "level": 2,
+        "text": "About the BBC",
+        "children": []
+      },
+      {
+        "level": 2,
+        "text": "Best of the BBC",
+        "children": [
+          {
+            "level": 3,
+            "text": "LIVE\n. \nTrump drops threat of tariffs over Greenland after Nato talks in Davos",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "Faisal Islam: What it was like inside the room with Donald Trump at Davos",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "Tetchy and emotional exchanges as Harry in court for what could be last time",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "Photos leaked to BBC show faces of hundreds killed in Iran's brutal protest crackdown",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "Mother-of-10 guilty of keeping vulnerable woman as slave for 25 years",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "Oldest cave painting of red claw hand could rewrite human creativity timeline",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "Olivia Dean and Lola Young dominate Brit Award nominations",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "Ghislaine Maxwell to testify before US Congress in Epstein probe",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "LIVE\n. \nChampions League: Newcastle in control, Szoboszlai free-kick gives Liverpool lead",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "Fact-checking Trump's Davos speech",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "Trump's jibes are wearing thin for many of Europe's leaders",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "EU suspends approval of US trade deal over Greenland threats",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "Watch: Faisal Islam considers how Trump's Davos speech was received. Video, 00:01:34\nWatch: Faisal Islam considers how Trump's Davos speech was received",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "LIVE\n. \nWatch: Chelsea leading against Man City, Arsenal down to 10 players v Man Utd",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "LIVE\n. \nChampionship: Southampton lead Sheff Utd; Stoke beating Boro",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "A changing man, or change the man - McCullum's reckoning",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "Former England captain George to retire in 2027",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "Raducanu's 'most dispiriting' Slam display - what went wrong?",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "Ship captain waited 'too long' to avoid crash",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "Man admits killing victim by pushing him in front of ambulance on 999 call",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "River of waste 'visible for miles' dumped at mountain beauty spot",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "Rats 'the size of small dog' seen in town as NI plagued by thousands of rodents",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "Find your regional news",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "LIVE\n. \nIt's the game's quarter-final and breakfast reveals a surprise move. Video, 61 minutes\nIt's the game's quarter-final and breakfast reveals a surprise move",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "Taylor Swift makes history as she joins Songwriters Hall of Fame",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "Brit Awards 2026: Full list of nominees",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "'I've got more bite this time!': Guest Dragons get fired up for new series",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "LIVE\n. \nConnect with the outdoors through our live Winterwatch nature feeds",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "Who is Brooklyn's wife, Nicola Peltz Beckham?",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "'Just fold it!': Robson and Rishi try to salvage their misshaped pizza. Video, 00:01:12\n'Just fold it!': Robson and Rishi try to salvage their misshaped pizza",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "Reliable midweek recipes to keep in your back pocket",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "Combine two of the greatest comfort foods for a satisfying dinner",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "Big chains accused of masquerading as independent restaurants on delivery apps",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "Dubai chocolate-inspired dessert takes South Korea by storm",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "'I've never been to Greggs', says Bake Off star. Audio, 00:02:59\n'I've never been to Greggs', says Bake Off star",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "Are UK interest rates expected to fall again?",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "Three UK businesses that made millions from small beginnings",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "British Gas took 15 months to refund me £1,500",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "Martin Lewis: How interest rates on bonds work. Audio, 00:03:03\nMartin Lewis: How interest rates on bonds work",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "'I gave my kids £300 each to see what they would do with it'",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "The 'unsexy nutrient' having its moment in the spotlight",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "'ADHD and OCD diagnoses have changed my life'",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "Are these essential winter health products worth the money?",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "'Just bad luck': The teenage cousins living with inoperable brain tumours",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "What you can do to improve your relationship with body image. Audio, 22 minutes\nWhat you can do to improve your relationship with body image",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "Five incredible old homes that have been given a new lease of life",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "108-point word helps maths teacher retain Scrabble title",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "Gran, 93, flies for first time in 30 years to see 'dream' parade",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "13-year-old Michael Carrick 'tipped for greatness' on Live and Kicking. Video, 00:05:45\n13-year-old Michael Carrick 'tipped for greatness' on Live and Kicking",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "Walter Mitty Hunters Club: The group exposing imposters like the fake admiral",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "Trump says tiny cars are amazing but will Americans actually buy them?",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "Is there more snow and ice on the way?",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "Beckham: Sometimes you have to let kids 'make mistakes' Audio, 00:06:42\nBeckham: Sometimes you have to let kids 'make mistakes'",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "Five new words added to the Cambridge Dictionary for 2026",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "A free solo climber attempts his lifelong dream of scaling the famed El Capitan. Video, 97 minutes\nA free solo climber attempts his lifelong dream of scaling the famed El Capitan",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "Hear the iconic Traitors theme in all its glory at The Proms. Video, 73 minutes\nHear the iconic Traitors theme in all its glory at The Proms",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "Bafta-winning actor Adeel Akhtar reveals his Desert Island Discs. Audio, 59 minutes\nBafta-winning actor Adeel Akhtar reveals his Desert Island Discs",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "The 'secret weapon' swimsuit that rocked the 2008 Olympic Games. Audio, 10 minutes\nThe 'secret weapon' swimsuit that rocked the 2008 Olympic Games",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "Explore the mind-blowing technology behind the humble oven chip. Video, 58 minutes\nExplore the mind-blowing technology behind the humble oven chip",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "Explaining the Beckham family fallout",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "How do video and board games get from idea to reality?",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "A modern take on Elizabeth George's hit crime novels",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "How much exercise should you do?",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "Are you a beginner? Try our easy puzzle",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "See if you can finish today's medium puzzle",
+            "children": []
+          },
+          {
+            "level": 3,
+            "text": "Take on our most challenging puzzle option",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]
