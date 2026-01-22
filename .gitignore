@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+
+# OS files
+.DS_Store
+
+# Data output
+data/*.json
+data/*.csv
+
+# IDE
+.vscode/
+.idea/
